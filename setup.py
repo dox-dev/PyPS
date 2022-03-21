@@ -10,9 +10,6 @@ setup(
   url = 'https://github.com/dox-dev/PyPS',
   download_url = 'https://github.com/dox-dev/PyPS/archive/refs/heads/main.zip',
   keywords = ['Python', 'Print', 'Pretty Strings', 'PyPS'],
-  install_requires=[
-          'sys',
-      ],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
