@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'PYPS',
-  packages = ['PYPS'],
-  version = '0.1',
+  name = 'PrettyStrings',
+  packages = ['PrettyStrings'],
+  version = '1.0.0',
   license='MIT',
   description = 'Python Pretty Strings. Use colors in your python strings.',
   author = 'DoxDev',
@@ -16,8 +16,5 @@ setup(
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
-    'Programming Language :: Python :: 3.4',
-    'Programming Language :: Python :: 3.5',
-    'Programming Language :: Python :: 3.6',
   ],
 )

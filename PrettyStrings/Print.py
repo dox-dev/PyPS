@@ -1,5 +1,3 @@
-#!/bin/bash
-
 import sys
 
 class print():
